@@ -1,0 +1,11 @@
+/* CSS */
+body {
+    background-color: lightskyblue
+}
+.titulo {       
+    font-weight: bold;
+}
+footer{ 
+  background: lightblue;
+  box-shadow: 2px 2px 10px black;
+}
